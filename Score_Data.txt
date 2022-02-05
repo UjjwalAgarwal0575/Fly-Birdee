@@ -2,4 +2,4 @@ vamshi 140
 anwit 130
 ujjwal 100
 krushikar 70
- UJJJWAL 0
+  30

@@ -58,7 +58,7 @@ void text::init(SDL_Renderer *rend,SDL_Window *wind)
     rect[2]={SCREEN_WIDTH/2-230,SCREEN_HEIGHT/2,surfacemenu[2]->w,surfacemenu[2]->h};
     rect[3]={SCREEN_WIDTH-200,0,surfacemenu[3]->w,surfacemenu[3]->h};
     //rect[4]={SCREEN_WIDTH/2-80,SCREEN_HEIGHT/2+100,surfacemenu[4]->w,surfacemenu[4]->h};
-    rect[4]={SCREEN_WIDTH/2-230,SCREEN_HEIGHT/2+100,surfacemenu[4]->w,surfacemenu[4]->h};
+    rect[4]={SCREEN_WIDTH/2-150,SCREEN_HEIGHT/2+100,surfacemenu[4]->w,surfacemenu[4]->h};
     rect[5]={0,0,surfacemenu[5]->w,surfacemenu[5]->h};
     //rect[6]={SCREEN_WIDTH-200,0,surfacemenu[6]->w,surfacemenu[6]->h};
     // SDL_FreeSurface(surface); 
